@@ -16,20 +16,20 @@ export const projects = [
     link: "https://codepen.io/L-R-M/pen/jOwwPba",
   },
   {
-    title: "Potfolio I",
-    subtitle: "HTML and CSS",
-    description:
-      "Lorem ipsum dolor sit amet consectetur adipisicing elit. Praesentium dolore rerum laborum iure enim sint nemo omnis voluptate exercitationem eius?",
-    image: "./project-3.png",
-    link: "https://codepen.io/L-R-M/pen/jOyXPPj",
-  },
-  {
-    title: "App",
+    title: "Bookstore-App",
     subtitle: "React",
     description:
       "Lorem ipsum dolor sit amet consectetur adipisicing elit. Praesentium dolore rerum laborum iure enim sint nemo omnis voluptate exercitationem eius?",
     image: "./project-3.png",
-    link: "",
+    link: "https://bookstore-app-lr.netlify.app/",
+  },
+  {
+    title: "To-Do-App",
+    subtitle: "React",
+    description:
+      "Lorem ipsum dolor sit amet consectetur adipisicing elit. Praesentium dolore rerum laborum iure enim sint nemo omnis voluptate exercitationem eius?",
+    image: "./project-4.png",
+    link: "https://github.com/luk-fontain/to-do-app",
   },
 ];
 
