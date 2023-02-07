@@ -11,7 +11,10 @@ export default function About() {
             webs and play ping-pong.
           </h1>
           <p className="mb-8 leading-relaxed">
-          Cat jumps and falls onto the couch purrs and wakes up in a new dimension filled with kitty litter meow meow yummy there is a bunch of cats hanging around eating catnip.
+          For some years I explored different fields of work and finally decided to become a coder, because I'm very enthusiastic about new technologies.
+I am currently looking for creative projects to
+to bring in my skills and create
+pragmatic, customer-oriented solutions.
           </p>
           <div className="flex justify-center">
             <a
@@ -28,9 +31,9 @@ export default function About() {
         </div>
         <div className="lg:max-w-lg lg:w-full md:w-1/2 w-5/6">
           <img
-            className="object-cover object-center rounded"
-            alt="hero"
-            src="./avatar.png"
+            className="object-cover object-center rounded-full border border-gray-100 shadow-sm"
+            alt="foto luciano rios marco "
+            src="./foto.jpg"
           />
         </div>
       </div>

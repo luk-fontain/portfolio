@@ -12,7 +12,7 @@ export default function Projects() {
             Projects
           </h1>
           <p className="lg:w-2/3 mx-auto leading-relaxed text-base">
-          Cat ipsum dolor sit amet, ignore the squirrels, you’ll never catch them anyway. Rub face on owner my left donut is missing, as is my right please let me outside pouty face yay! 
+          Here you can see some of the projects I've created.
           </p>
         </div>
         <div className="flex flex-wrap -m-4">
