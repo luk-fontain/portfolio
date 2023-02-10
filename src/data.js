@@ -59,4 +59,6 @@ export const skills = [
   "JavaScript",
   "React",
   "Node.js",
+  "SQL",
+  "Agile software development",
 ];
