@@ -12,7 +12,7 @@ export default function About() {
           </h1>
           <p className="mb-8 leading-relaxed">
           For some years I explored different fields of work and finally decided to become a coder, because I'm very enthusiastic about new technologies.
-I am currently looking for creative projects to
+I am currently looking for creative projects
 to bring in my skills and create
 pragmatic, customer-oriented solutions.
           </p>
